@@ -2,7 +2,7 @@
 
 ##QR:
 
-1.GramSchmidt正交化 
+1.GramSchmidt正交化
 
 2.Givens矩阵与Givens变换
 
